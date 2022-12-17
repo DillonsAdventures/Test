@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Dillon&#039;s Adventures 2022	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/Test/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/Test/</link>
 	<description></description>
 	<lastBuildDate>Sat, 17 Dec 2022 16:48:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
